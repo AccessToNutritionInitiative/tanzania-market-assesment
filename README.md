@@ -31,7 +31,7 @@ For full methodology and scoring criteria, please refer to the [Methodology file
 
 ## 🗓️ Launch Event
 
-This dataset was launched at the  
+This findings was launched at the  
 🎤 [Global Launch of the ATNi East Africa Market Assessments (EAMA)]([https://www.linkedin.com/feed/update/urn:li:activity:7206617594944505857/](https://www.linkedin.com/posts/atni-org_nutrition-foodsystems-sustainabledevelopment-activity-7341735029795905536-Al3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_SdMQBMsaoBvXA2GSlBAM0uGmUE0I8TKQ))  
 🗓️ **9 July 2025**
 

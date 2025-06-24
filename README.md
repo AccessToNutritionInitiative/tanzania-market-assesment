@@ -25,7 +25,7 @@ The Excel file includes:
 
 This dataset supports ATNi’s work to promote transparency and accountability in food systems. It was released as part of the **East Africa Market Assessment (EAMA)** initiative, which evaluates how companies contribute to improved nutrition across the region.
 
-For full methodology and scoring criteria, please refer to the [Methodology file] ((TO BE UPDATED)) included in this repository.
+For full methodology and scoring criteria, please refer to the [20250623_EAMA_Tanzania_Methodology_FINAL.pdf] 20250623_EAMA_Tanzania_Methodology_FINAL.pdf included in this repository.
 
 ---
 

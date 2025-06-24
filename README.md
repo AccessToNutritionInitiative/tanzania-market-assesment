@@ -37,6 +37,13 @@ This dataset was launched at the
 
 ---
 
+## License
+
+📜 License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+You may share this dataset with attribution, but **modification and commercial use are not permitted**.
+
+
 ## 🔖 Tags
 
 `#open-data` `#nutrition` `#Tanzania` `#micronutrients` `#food-systems` `#market-assessment` `#fortification` `#ATNi` `#EAMA` `#AccessToNutritionInitiation` `#FoodSystems` `#Africa` `#East-Africa`

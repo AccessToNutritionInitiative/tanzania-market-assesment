@@ -2,7 +2,7 @@
 
 This repository hosts the **open dataset from ATNi’s 2025 East Africa Market Assessment (EAMA)**, focusing on the nutrition-related commitments and product portfolios of major food and beverage companies operating in **Tanzania**.
 
-📄 **Filename:** (20260624_TanzaniaOpenDataset.xlsx)
+📄 **Filename:** 20260624_TanzaniaOpenDataset.xlsx
 
 ---
 

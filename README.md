@@ -1,23 +1,34 @@
 # Tanzania Market Assessment Open Dataset – ATNi (2025)
 
-This repository hosts the **open dataset from ATNi’s 2025 East Africa Market Assessment (EAMA)**, focusing on the nutrition-related commitments and product portfolios of major food and beverage companies operating in **Tanzania**.
+This repository hosts the **open dataset and documentation from ATNi’s 2025 East Africa Market Assessment (EAMA)**, focusing on the nutrition-related commitments and product portfolios of major food and beverage companies operating in **Tanzania**.
 
-📄 **Filename:** "20260624_TanzaniaOpenDataset.xlsx" 
+---
+
+## 📄 Files Included
+
+| Filename | Description |
+|----------|-------------|
+| `20260624_TanzaniaOpenDataset.xlsx` | The main open dataset with company scores and product health data |
+| `20250626_Tanzania_FullReport_v1_FINAL.pdf` | Full report summarizing findings, insights, and recommendations |
+| `20250623_EAMA_Tanzania_Methodology_FINAL.pdf` | Methodology and scoring framework used in the assessment |
 
 ---
 
 ## 📦 What’s Inside
 
-The Excel file includes:
+### 🟢 `20260624_TanzaniaOpenDataset.xlsx`  
+- Overview of assessed companies  
+- Product-level healthiness scores  
+- Definitions and notes (see first sheet)
 
-- **Overview of assessed companies**  
-  With indicators on corporate nutrition commitments, transparency, and policy implementation.
+### 📘 `20250626_Tanzania_FullReport_v1_FINAL.pdf`  
+- Full summary of results  
+- Context, findings, and recommendations  
+- Background and objectives of the initiative
 
-- **Portfolio-level product healthiness scores**  
-  Based on ATNi’s nutrition profiling framework.
-
-- **Contextual notes and definitions**  
-  Provided in the **first sheet** of the file.
+### 📐 `20250623_EAMA_Tanzania_Methodology_FINAL.pdf`  
+- Detailed explanation of the scoring approach  
+- Indicators, scoring logic, and company selection criteria
 
 ---
 
@@ -25,25 +36,23 @@ The Excel file includes:
 
 This dataset supports ATNi’s work to promote transparency and accountability in food systems. It was released as part of the **East Africa Market Assessment (EAMA)** initiative, which evaluates how companies contribute to improved nutrition across the region.
 
-For full methodology and scoring criteria, please refer to the "20250623_EAMA_Tanzania_Methodology_FINAL.pdf" included in this repository.
-
 ---
 
 ## 🗓️ Launch Event
 
-This findings was launched at the  
-🎤 [Global Launch of the ATNi East Africa Market Assessments (EAMA)]([https://www.linkedin.com/feed/update/urn:li:activity:7206617594944505857/](https://www.linkedin.com/posts/atni-org_nutrition-foodsystems-sustainabledevelopment-activity-7341735029795905536-Al3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_SdMQBMsaoBvXA2GSlBAM0uGmUE0I8TKQ))  
+This work was launched at the:  
+🎤 [Global Launch of the ATNi East Africa Market Assessments (EAMA)](https://www.linkedin.com/posts/atni-org_nutrition-foodsystems-sustainabledevelopment-activity-7341735029795905536-Al3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_SdMQBMsaoBvXA2GSlBAM0uGmUE0I8TKQ)  
 🗓️ **9 July 2025**
 
 ---
 
 ## License
 
-📜 License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
+📜 License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 You may share this dataset with attribution, but **modification and commercial use are not permitted**.
 
+---
 
 ## 🔖 Tags
 
-`#open-data` `#nutrition` `#Tanzania` `#micronutrients` `#food-systems` `#market-assessment` `#fortification` `#ATNi` `#EAMA` `#AccessToNutritionInitiation` `#FoodSystems` `#Africa` `#East-Africa`
+`#open-data` `#nutrition` `#Tanzania` `#micronutrients` `#food-systems` `#market-assessment` `#fortification` `#ATNi` `#EAMA` `#AccessToNutritionInitiative` `#FoodSystems` `#Africa` `#East-Africa`

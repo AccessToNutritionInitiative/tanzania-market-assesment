@@ -1,5 +1,11 @@
 # Tanzania Market Assessment Open Dataset – ATNi (2025)
 
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+![Status: Released](https://img.shields.io/badge/Status-Released-brightgreen)
+![Data Type: Open](https://img.shields.io/badge/Data%20Type-Open-blue)
+![Country: Tanzania](https://img.shields.io/badge/Country-Tanzania-orange)
+
+
 This repository hosts the **open dataset and documentation from ATNi’s 2025 East Africa Market Assessment (EAMA)**, focusing on the nutrition-related commitments and product portfolios of major food and beverage companies operating in **Tanzania**.
 
 ---

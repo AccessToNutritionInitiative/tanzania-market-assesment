@@ -46,7 +46,7 @@ This dataset supports ATNi’s work to promote transparency and accountability i
 
 ## 🗓️ Launch Event
 
-This work was launched at the:  
+This work will be launching at the:  
 🎤 [Global Launch of the ATNi East Africa Market Assessments (EAMA)](https://www.linkedin.com/posts/atni-org_nutrition-foodsystems-sustainabledevelopment-activity-7341735029795905536-Al3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_SdMQBMsaoBvXA2GSlBAM0uGmUE0I8TKQ)  
 🗓️ **9 July 2025**
 

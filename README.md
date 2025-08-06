@@ -15,7 +15,7 @@ This repository hosts the **open dataset and documentation from ATNi’s 2025 Ea
 | Filename | Description |
 |----------|-------------|
 | `20260624_TanzaniaOpenDataset.xlsx` | The main open dataset with company scores and product health data |
-| `20250626_Tanzania_FullReport_v1_FINAL.pdf` | Full report summarizing findings, insights, and recommendations |
+| `20250702_EAMA_Tanzania_FullReport_v1.2_FINAL` | Full report summarizing findings, insights, and recommendations |
 | `20250702_EAMA_Tanzania_Methodology_v1.1_FINAL (1).pdf` | Methodology and scoring framework used in the assessment |
 
 ---
@@ -27,12 +27,12 @@ This repository hosts the **open dataset and documentation from ATNi’s 2025 Ea
 - Product-level healthiness scores  
 - Definitions and notes (see first sheet)
 
-### 📘 `20250626_Tanzania_FullReport_v1_FINAL.pdf`  
+### 📘 `20250702_EAMA_Tanzania_FullReport_v1.2_FINAL`  
 - Full summary of results  
 - Context, findings, and recommendations  
 - Background and objectives of the initiative
 
-### 📐 `20250702_EAMA_Tanzania_Methodology_v1.1_FINAL.pdf`  
+### 📐 `20250702_EAMA_Tanzania_Methodology_v1.1_FINAL (1).pdf`  
 - Detailed explanation of the scoring approach  
 - Indicators, scoring logic, and company selection criteria
 
